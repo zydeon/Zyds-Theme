@@ -17,7 +17,7 @@ Sublime Text 2 theme
 ## GIT
 
 * `cd` into your Sublime Text 2 `Packages` directory
-*     git clone https://github.com/zydeon/Zyds-Theme.git
+* `git clone https://github.com/zydeon/Zyds-Theme.git`
 
 ## Manually
 * Download the zip file shared by GitHub
