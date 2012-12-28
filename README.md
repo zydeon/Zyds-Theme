@@ -14,6 +14,10 @@ Sublime Text 2 theme
     }
 	
 
+While inside the `Packages` directory, clone the theme repository using the command below:
+
+    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+
 ## GIT
 
 * `cd` into your Sublime Text 2 `Packages` directory
