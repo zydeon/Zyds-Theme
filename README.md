@@ -9,9 +9,9 @@ Sublime Text 2 theme
 * Open `Sublime Text 2 -> Preferences -> Settings - User`
 * Add (or edit) the theme entry as shown in the example below
 
-    {
-        "theme": "Soda Light.sublime-theme"
-    }
+	{
+		"theme": "Soda Light.sublime-theme"
+	}
 	
 
 While inside the `Packages` directory, clone the theme repository using the command below:
