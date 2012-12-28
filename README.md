@@ -1,23 +1,23 @@
 Zyds-Theme
 ==========
 
-Sublime Text theme
+Sublime Text 2 theme
 
 # Installation
 
 * Download the files either by using GIT or manually (see below) and place them in your Sublime Text 2 `Packages` directory (`Sublime Text 2 -> Preferences -> Browse Packages...`)
-
 * Open `Sublime Text 2 -> Preferences -> Settings - User`
 * Add (or edit) the theme entry as shown in the example below
 
-	{
-		"theme": "Zyds.sublime-theme"
-	}
+    {
+        "theme": "Soda Light.sublime-theme"
+    }
+	
 
 ## GIT
 
 * `cd` into your Sublime Text 2 `Packages` directory
-* 	git clone https://github.com/zydeon/Zyds-Theme.git
+*     git clone https://github.com/zydeon/Zyds-Theme.git
 
 ## Manually
 * Download the zip file shared by GitHub
